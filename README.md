@@ -45,7 +45,7 @@ I enjoy working on projects where frontend experience, backend architecture, API
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/Specialization-Web%20%26%20Real%20Estate%20Technology-FE2A53?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-Web%20Development-FE2A53?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Dubai%2C%20UAE-111111?style=flat-square" />
 </p>
 
